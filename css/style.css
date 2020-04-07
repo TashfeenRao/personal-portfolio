@@ -507,7 +507,6 @@ button.primary_btn {
 
 .home_banner_area .banner_inner {
     width: 100%;
-    min-height: 890px
 }
 @media (min-width: 991px) {
     .home_banner_area .banner_inner .home_right_img {
